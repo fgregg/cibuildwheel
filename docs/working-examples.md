@@ -29,8 +29,8 @@ title: Working examples
 | [Triton][]                        | ![github icon][] | ![linux icon][] | Self hosted runners |
 | [PyOxidizer][]                    | ![github icon][] | ![apple icon][] ![linux icon][] ![windows icon][] | A modern Python application packaging and distribution tool |
 | [OpenSpiel][]                     | ![github icon][] | ![apple icon][] ![linux icon][] | OpenSpiel is a collection of environments and algorithms for research in general reinforcement learning and search/planning in games. |
-| [pyzmq][]                         | ![github icon][] | ![windows icon][] ![apple icon][] ![linux icon][] | Python bindings for zeromq, the networking library. Uses Cython and CFFI.  |
 | [River][]                         | ![github icon][] | ![windows icon][] ![apple icon][] ![linux icon][] | 🌊 Online machine learning in Python |
+| [pyzmq][]                         | ![github icon][] | ![windows icon][] ![apple icon][] ![linux icon][] | Python bindings for zeromq, the networking library. Uses Cython and CFFI.  |
 | [vispy][]                         | ![github icon][] | ![apple icon][] ![linux icon][] ![windows icon][] | Main repository for Vispy |
 | [aiortc][]                        | ![github icon][] | ![apple icon][] ![linux icon][] | WebRTC and ORTC implementation for Python using asyncio. |
 | [Confluent client for Kafka][]    | ![travisci icon][] | ![apple icon][] ![linux icon][] ![windows icon][] | setup in `tools/wheels/build-wheels.bat` |
@@ -51,8 +51,8 @@ title: Working examples
 | [aioquic][]                       | ![github icon][] | ![windows icon][] ![apple icon][] ![linux icon][] | QUIC and HTTP/3 implementation in Python |
 | [google neuroglancer][]           | ![github icon][] | ![windows icon][] ![apple icon][] ![linux icon][] | WebGL-based viewer for volumetric data |
 | [DeepForest][]                    | ![github icon][] | ![apple icon][] ![linux icon][] ![windows icon][] | An Efficient, Scalable and Optimized Python Framework for Deep Forest (2021.2.1) |
-| [Parselmouth][]                   | ![github icon][] | ![windows icon][] ![apple icon][] ![linux icon][] | A Python interface to the Praat software package, using pybind11, C++17 and CMake, with the core Praat static library built only once and shared between wheels. |
 | [AutoPy][]                        | ![travisci icon][] | ![windows icon][] ![apple icon][] ![linux icon][] | Includes a Windows Travis build. |
+| [Parselmouth][]                   | ![github icon][] | ![windows icon][] ![apple icon][] ![linux icon][] | A Python interface to the Praat software package, using pybind11, C++17 and CMake, with the core Praat static library built only once and shared between wheels. |
 | [Psycopg 3][]                     | ![github icon][] | ![windows icon][] ![apple icon][] ![linux icon][] | A modern implementation of a PostgreSQL adapter for Python |
 | [H3-py][]                         | ![github icon][] | ![apple icon][] ![linux icon][] ![windows icon][] | Python bindings for H3, a hierarchical hexagonal geospatial indexing system |
 | [markupsafe][]                    | ![github icon][] | ![apple icon][] ![linux icon][] ![windows icon][] | Safely add untrusted strings to HTML/XML markup. |
@@ -80,18 +80,18 @@ title: Working examples
 | [pybase64][]                      | ![github icon][] | ![windows icon][] ![apple icon][] ![linux icon][] | Fast Base64 encoding/decoding in Python |
 | [etebase-py][]                    | ![travisci icon][] | ![linux icon][] | Python bindings to a Rust library using `setuptools-rust`, and `sccache` for improved speed. |
 | [fathon][]                        | ![travisci icon][] | ![apple icon][] ![linux icon][] | python package for DFA (Detrended Fluctuation Analysis) and related algorithms |
-| [pyjet][]                         | ![github icon][] | ![windows icon][] ![apple icon][] ![linux icon][] | The interface between FastJet and NumPy |
 | [numpythia][]                     | ![github icon][] | ![apple icon][] ![linux icon][] | The interface between PYTHIA and NumPy |
-| [polaroid][]                      | ![github icon][] | ![apple icon][] ![linux icon][] ![windows icon][] | Full range of wheels for setuptools rust, with auto release and PyPI deploy. |
+| [pyjet][]                         | ![github icon][] | ![windows icon][] ![apple icon][] ![linux icon][] | The interface between FastJet and NumPy |
 | [Imagecodecs (fork)][]            | ![azurepipelines icon][] | ![apple icon][] ![linux icon][] | Over 20 external dependencies in compiled libraries, custom docker image, `libomp`, `openblas` and `install_name_tool` for macOS. |
+| [polaroid][]                      | ![github icon][] | ![apple icon][] ![linux icon][] ![windows icon][] | Full range of wheels for setuptools rust, with auto release and PyPI deploy. |
 | [clang-format][]                  | ![github icon][] | ![apple icon][] ![linux icon][] ![windows icon][] | Scikit-build wrapper around LLVM's CMake, all platforms, generic wheels. |
 | [ninja][]                         | ![github icon][] ![travisci icon][] | ![apple icon][] ![linux icon][] ![windows icon][] | Multitagged binary builds for all supported platforms, using cibw 2 config configuration. |
 | [pybind11 scikit_build_example][] | ![github icon][] | ![windows icon][] ![apple icon][] ![linux icon][] | An example combining scikit-build and pybind11 |
 | [GSD][]                           | ![github icon][] | ![apple icon][] ![linux icon][] ![windows icon][] | Cython and NumPy project with 64-bit wheels. |
 | [pyinstrument_cext][]             | ![travisci icon][] ![appveyor icon][] | ![windows icon][] ![apple icon][] ![linux icon][] | A simple C extension, without external dependencies |
 | [xmlstarlet][]                    | ![github icon][] | ![windows icon][] ![apple icon][] ![linux icon][] | Python 3.6+ CFFI bindings with true MSVC build. |
-| [CorrectionLib][]                 | ![github icon][] | ![apple icon][] ![linux icon][] | Structured JSON powered correction library for HEP, designed for the CMS experiment at CERN. |
 | [pillow-heif][]                   | ![github icon][] | ![apple icon][] ![linux icon][] | Python CFFI binding to libheif library with third party dependencies like `libde265`, `x265`, `libaom` with test & publishing on PyPi. |
+| [CorrectionLib][]                 | ![github icon][] | ![apple icon][] ![linux icon][] | Structured JSON powered correction library for HEP, designed for the CMS experiment at CERN. |
 | [SiPM][]                          | ![github icon][] | ![apple icon][] ![linux icon][] | High performance library for SiPM detectors simulation using C++17, OpenMP and AVX2 intrinsics. |
 
 [scikit-learn]: https://github.com/scikit-learn/scikit-learn
@@ -115,8 +115,8 @@ title: Working examples
 [Triton]: https://github.com/openai/triton
 [PyOxidizer]: https://github.com/indygreg/PyOxidizer
 [OpenSpiel]: https://github.com/deepmind/open_spiel
-[pyzmq]: https://github.com/zeromq/pyzmq
 [River]: https://github.com/online-ml/river
+[pyzmq]: https://github.com/zeromq/pyzmq
 [vispy]: https://github.com/vispy/vispy
 [aiortc]: https://github.com/aiortc/aiortc
 [Confluent client for Kafka]: https://github.com/confluentinc/confluent-kafka-python
@@ -137,8 +137,8 @@ title: Working examples
 [aioquic]: https://github.com/aiortc/aioquic
 [google neuroglancer]: https://github.com/google/neuroglancer
 [DeepForest]: https://github.com/LAMDA-NJU/Deep-Forest
-[Parselmouth]: https://github.com/YannickJadoul/Parselmouth
 [AutoPy]: https://github.com/autopilot-rs/autopy
+[Parselmouth]: https://github.com/YannickJadoul/Parselmouth
 [Psycopg 3]: https://github.com/psycopg/psycopg
 [H3-py]: https://github.com/uber/h3-py
 [markupsafe]: https://github.com/pallets/markupsafe
@@ -166,18 +166,18 @@ title: Working examples
 [pybase64]: https://github.com/mayeut/pybase64
 [etebase-py]: https://github.com/etesync/etebase-py
 [fathon]: https://github.com/stfbnc/fathon
-[pyjet]: https://github.com/scikit-hep/pyjet
 [numpythia]: https://github.com/scikit-hep/numpythia
-[polaroid]: https://github.com/daggy1234/polaroid
+[pyjet]: https://github.com/scikit-hep/pyjet
 [Imagecodecs (fork)]: https://github.com/czaki/imagecodecs_build
+[polaroid]: https://github.com/daggy1234/polaroid
 [clang-format]: https://github.com/ssciwr/clang-format-wheel
 [ninja]: https://github.com/scikit-build/ninja-python-distributions
 [pybind11 scikit_build_example]: https://github.com/pybind/scikit_build_example
 [GSD]: https://github.com/glotzerlab/gsd
 [pyinstrument_cext]: https://github.com/joerick/pyinstrument_cext
 [xmlstarlet]: https://github.com/dimitern/xmlstarlet
-[CorrectionLib]: https://github.com/cms-nanoAOD/correctionlib
 [pillow-heif]: https://github.com/bigcat88/pillow_heif
+[CorrectionLib]: https://github.com/cms-nanoAOD/correctionlib
 [SiPM]: https://github.com/EdoPro98/SimSiPM
 
 [appveyor icon]: data/readme_icons/appveyor.svg
@@ -190,91 +190,91 @@ title: Working examples
 [apple icon]: data/readme_icons/apple.svg
 [linux icon]: data/readme_icons/linux.svg
 
-<!-- scikit-learn: 48285, last pushed 0 days ago -->
-<!-- Tornado: 20312, last pushed 6 days ago -->
-<!-- pytorch-fairseq: 14826, last pushed 0 days ago -->
-<!-- Matplotlib: 14713, last pushed 0 days ago -->
-<!-- MyPy: 11972, last pushed 0 days ago -->
-<!-- pydantic: 8297, last pushed 0 days ago -->
-<!-- uvloop: 8234, last pushed 4 days ago -->
-<!-- psutil: 7934, last pushed 6 days ago -->
-<!-- vaex: 6788, last pushed 0 days ago -->
-<!-- Google Benchmark: 5979, last pushed 0 days ago -->
-<!-- asyncpg: 5208, last pushed 5 days ago -->
-<!-- Apache Beam: 5145, last pushed 0 days ago -->
-<!-- scikit-image: 4685, last pushed 0 days ago -->
-<!-- twisted-iocpsupport: 4437, last pushed 7 days ago -->
-<!-- cmake: 4345, last pushed 0 days ago -->
-<!-- duckdb: 3992, last pushed 0 days ago -->
-<!-- websockets: 3716, last pushed 23 days ago -->
-<!-- cvxpy: 3639, last pushed 0 days ago -->
-<!-- Triton: 3404, last pushed 0 days ago -->
-<!-- PyOxidizer: 3378, last pushed 0 days ago -->
-<!-- OpenSpiel: 2979, last pushed 1 days ago -->
-<!-- pyzmq: 2971, last pushed 6 days ago -->
-<!-- River: 2970, last pushed 2 days ago -->
-<!-- vispy: 2770, last pushed 3 days ago -->
-<!-- aiortc: 2698, last pushed 12 days ago -->
-<!-- Confluent client for Kafka: 2573, last pushed 0 days ago -->
-<!-- tinyobjloader: 2363, last pushed 9 days ago -->
-<!-- coverage.py: 1854, last pushed 0 days ago -->
-<!-- PyCryptodome: 1814, last pushed 10 days ago -->
-<!-- Dependency Injector: 1760, last pushed 15 days ago -->
-<!-- numexpr: 1697, last pushed 3 days ago -->
-<!-- PyYAML: 1678, last pushed 12 days ago -->
-<!-- h5py: 1642, last pushed 2 days ago -->
-<!-- PyAV: 1408, last pushed 4 days ago -->
-<!-- OpenColorIO: 1202, last pushed 0 days ago -->
-<!-- PyTables: 1087, last pushed 0 days ago -->
-<!-- Line Profiler: 986, last pushed 11 days ago -->
-<!-- OpenTimelineIO: 947, last pushed 0 days ago -->
-<!-- ruptures: 871, last pushed 0 days ago -->
-<!-- pikepdf: 831, last pushed 0 days ago -->
-<!-- aioquic: 792, last pushed 7 days ago -->
-<!-- google neuroglancer: 704, last pushed 10 days ago -->
-<!-- DeepForest: 689, last pushed 144 days ago -->
-<!-- Parselmouth: 597, last pushed 13 days ago -->
-<!-- AutoPy: 596, last pushed 180 days ago -->
-<!-- Psycopg 3: 547, last pushed 1 days ago -->
-<!-- H3-py: 457, last pushed 41 days ago -->
-<!-- markupsafe: 438, last pushed 7 days ago -->
-<!-- python-rapidjson: 433, last pushed 59 days ago -->
-<!-- Rtree: 432, last pushed 69 days ago -->
-<!-- python-snappy: 413, last pushed 5 days ago -->
-<!-- pybind11 cmake_example: 336, last pushed 15 days ago -->
-<!-- KDEpy: 315, last pushed 194 days ago -->
-<!-- tgcalls: 293, last pushed 85 days ago -->
-<!-- dd-trace-py: 287, last pushed 0 days ago -->
-<!-- pybind11 python_example: 285, last pushed 15 days ago -->
-<!-- cyvcf2: 279, last pushed 6 days ago -->
-<!-- sourmash: 267, last pushed 10 days ago -->
-<!-- time-machine: 237, last pushed 0 days ago -->
-<!-- matrixprofile: 217, last pushed 171 days ago -->
-<!-- CTranslate2: 213, last pushed 1 days ago -->
-<!-- jq.py: 189, last pushed 133 days ago -->
-<!-- iminuit: 189, last pushed 30 days ago -->
-<!-- Tokenizer: 161, last pushed 6 days ago -->
-<!-- PyGLM: 124, last pushed 8 days ago -->
-<!-- bx-python: 108, last pushed 0 days ago -->
-<!-- boost-histogram: 101, last pushed 7 days ago -->
-<!-- iDynTree: 92, last pushed 8 days ago -->
-<!-- TgCrypto: 81, last pushed 63 days ago -->
-<!-- pybase64: 76, last pushed 0 days ago -->
-<!-- etebase-py: 53, last pushed 344 days ago -->
-<!-- fathon: 41, last pushed 26 days ago -->
-<!-- pyjet: 32, last pushed 15 days ago -->
-<!-- numpythia: 32, last pushed 15 days ago -->
-<!-- polaroid: 27, last pushed 2 days ago -->
-<!-- Imagecodecs (fork): 26, last pushed 24 days ago -->
-<!-- clang-format: 22, last pushed 61 days ago -->
-<!-- ninja: 20, last pushed 1 days ago -->
-<!-- pybind11 scikit_build_example: 19, last pushed 15 days ago -->
-<!-- GSD: 18, last pushed 27 days ago -->
-<!-- pyinstrument_cext: 10, last pushed 66 days ago -->
-<!-- xmlstarlet: 7, last pushed 36 days ago -->
-<!-- CorrectionLib: 7, last pushed 0 days ago -->
-<!-- pillow-heif: 7, last pushed 2 days ago -->
-<!-- SiPM: 4, last pushed 36 days ago -->
+<!-- scikit-learn: 48375, last pushed 0 days ago -->
+<!-- Tornado: 20332, last pushed 9 days ago -->
+<!-- pytorch-fairseq: 14927, last pushed 2 days ago -->
+<!-- Matplotlib: 14775, last pushed 1 days ago -->
+<!-- MyPy: 12046, last pushed 0 days ago -->
+<!-- pydantic: 8455, last pushed 0 days ago -->
+<!-- uvloop: 8260, last pushed 2 days ago -->
+<!-- psutil: 7965, last pushed 1 days ago -->
+<!-- vaex: 6805, last pushed 2 days ago -->
+<!-- Google Benchmark: 6021, last pushed 1 days ago -->
+<!-- asyncpg: 5224, last pushed 18 days ago -->
+<!-- Apache Beam: 5172, last pushed 0 days ago -->
+<!-- scikit-image: 4693, last pushed 2 days ago -->
+<!-- twisted-iocpsupport: 4449, last pushed 2 days ago -->
+<!-- cmake: 4367, last pushed 0 days ago -->
+<!-- duckdb: 4079, last pushed 0 days ago -->
+<!-- websockets: 3734, last pushed 2 days ago -->
+<!-- cvxpy: 3653, last pushed 0 days ago -->
+<!-- Triton: 3413, last pushed 1 days ago -->
+<!-- PyOxidizer: 3393, last pushed 5 days ago -->
+<!-- OpenSpiel: 3001, last pushed 4 days ago -->
+<!-- River: 2988, last pushed 0 days ago -->
+<!-- pyzmq: 2975, last pushed 6 days ago -->
+<!-- vispy: 2779, last pushed 9 days ago -->
+<!-- aiortc: 2721, last pushed 24 days ago -->
+<!-- Confluent client for Kafka: 2584, last pushed 6 days ago -->
+<!-- tinyobjloader: 2369, last pushed 0 days ago -->
+<!-- coverage.py: 1864, last pushed 12 days ago -->
+<!-- PyCryptodome: 1826, last pushed 23 days ago -->
+<!-- Dependency Injector: 1785, last pushed 6 days ago -->
+<!-- numexpr: 1706, last pushed 10 days ago -->
+<!-- PyYAML: 1694, last pushed 6 days ago -->
+<!-- h5py: 1647, last pushed 3 days ago -->
+<!-- PyAV: 1418, last pushed 17 days ago -->
+<!-- OpenColorIO: 1209, last pushed 4 days ago -->
+<!-- PyTables: 1088, last pushed 0 days ago -->
+<!-- Line Profiler: 998, last pushed 3 days ago -->
+<!-- OpenTimelineIO: 956, last pushed 0 days ago -->
+<!-- ruptures: 876, last pushed 11 days ago -->
+<!-- pikepdf: 850, last pushed 12 days ago -->
+<!-- aioquic: 801, last pushed 8 days ago -->
+<!-- google neuroglancer: 705, last pushed 4 days ago -->
+<!-- DeepForest: 696, last pushed 156 days ago -->
+<!-- AutoPy: 602, last pushed 1 days ago -->
+<!-- Parselmouth: 601, last pushed 6 days ago -->
+<!-- Psycopg 3: 561, last pushed 2 days ago -->
+<!-- H3-py: 462, last pushed 54 days ago -->
+<!-- markupsafe: 441, last pushed 20 days ago -->
+<!-- python-rapidjson: 434, last pushed 71 days ago -->
+<!-- Rtree: 433, last pushed 5 days ago -->
+<!-- python-snappy: 415, last pushed 18 days ago -->
+<!-- pybind11 cmake_example: 344, last pushed 12 days ago -->
+<!-- KDEpy: 319, last pushed 206 days ago -->
+<!-- tgcalls: 296, last pushed 97 days ago -->
+<!-- dd-trace-py: 289, last pushed 1 days ago -->
+<!-- pybind11 python_example: 287, last pushed 11 days ago -->
+<!-- cyvcf2: 280, last pushed 18 days ago -->
+<!-- sourmash: 267, last pushed 2 days ago -->
+<!-- time-machine: 244, last pushed 5 days ago -->
+<!-- matrixprofile: 218, last pushed 184 days ago -->
+<!-- CTranslate2: 215, last pushed 5 days ago -->
+<!-- jq.py: 192, last pushed 146 days ago -->
+<!-- iminuit: 189, last pushed 43 days ago -->
+<!-- Tokenizer: 160, last pushed 18 days ago -->
+<!-- PyGLM: 125, last pushed 21 days ago -->
+<!-- bx-python: 108, last pushed 10 days ago -->
+<!-- boost-histogram: 101, last pushed 6 days ago -->
+<!-- iDynTree: 92, last pushed 20 days ago -->
+<!-- TgCrypto: 82, last pushed 4 days ago -->
+<!-- pybase64: 76, last pushed 2 days ago -->
+<!-- etebase-py: 53, last pushed 7 days ago -->
+<!-- fathon: 41, last pushed 39 days ago -->
+<!-- numpythia: 33, last pushed 11 days ago -->
+<!-- pyjet: 32, last pushed 12 days ago -->
+<!-- Imagecodecs (fork): 27, last pushed 37 days ago -->
+<!-- polaroid: 27, last pushed 15 days ago -->
+<!-- clang-format: 22, last pushed 73 days ago -->
+<!-- ninja: 20, last pushed 10 days ago -->
+<!-- pybind11 scikit_build_example: 18, last pushed 11 days ago -->
+<!-- GSD: 18, last pushed 39 days ago -->
+<!-- pyinstrument_cext: 10, last pushed 79 days ago -->
+<!-- xmlstarlet: 7, last pushed 48 days ago -->
+<!-- pillow-heif: 7, last pushed 15 days ago -->
+<!-- CorrectionLib: 6, last pushed 9 days ago -->
+<!-- SiPM: 4, last pushed 49 days ago -->
 
 <!-- END bin/projects.py -->
 
